@@ -8,5 +8,7 @@ body {
 
 h2 {
     background-image:url('http://shonanapps.com/images/logo48.png');
+    background-repeat:repeat-y;
     padding-left:55px;
+    padding-top:10px;
 }
